@@ -27,8 +27,9 @@ body {
 
 /* Header */
 header {
-  background-color: #eee;
-  padding: 1rem 0;
+    background-image: linear-gradient(to bottom, #ffca3a, #c9285c);
+    text-align: center;
+    padding: 32px 0;
 }
 
 header h1, header h2 {
@@ -128,4 +129,4 @@ main ul {
   margin-left: 2rem;
 }
 
-main li
+
